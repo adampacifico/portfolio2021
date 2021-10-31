@@ -20,6 +20,13 @@ const personalProjects = [
     codeLink: "https://github.com/adampacifico/tesla-clone-app",
     imgLink: "/images/tesla.png",
   },
+  {
+    id: 3,
+    imgTitle: "/images/cheatchat-logo.png",
+    siteLink: "https://cheatchat-app.web.app/" ,
+    codeLink: "https://github.com/adampacifico/cheat-chat",
+    imgLink: "/images/cheatchat.png",
+  },
   // {
   //   id: 4,
   //   imgTitle: "/images/postbook-title.png",
