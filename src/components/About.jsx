@@ -50,7 +50,7 @@ const About = () => {
             animate={{ scale: 1 }}
             initial={{ scale: 0.2 }}
           >
-            Hi! My name is Adam Jaspher Pacifico, 23 years of age, living in the
+            Hi! My name is Adam Jaspher Pacifico, 24 years of age, living in the
             province of Sultan Kudarat, Philippines. I obtained my degree in BS
             Computer Engineering at Notre Dame of Marbel University.
             <br />
