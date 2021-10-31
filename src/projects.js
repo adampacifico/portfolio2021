@@ -20,13 +20,13 @@ const personalProjects = [
     codeLink: "https://github.com/adampacifico/tesla-clone-app",
     imgLink: "/images/tesla.png",
   },
-  {
-    id: 4,
-    imgTitle: "/images/postbook-title.png",
-    siteLink: "https://postbook-mern-app-d2e0e.web.app/" ,
-    codeLink: "https://github.com/adampacifico/postbook",
-    imgLink: "/images/postbook.png",
-  },
+  // {
+  //   id: 4,
+  //   imgTitle: "/images/postbook-title.png",
+  //   siteLink: "https://postbook-mern-app-d2e0e.web.app/" ,
+  //   codeLink: "https://github.com/adampacifico/postbook",
+  //   imgLink: "/images/postbook.png",
+  // },
 ];
 
 export default personalProjects
