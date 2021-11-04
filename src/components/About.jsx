@@ -70,7 +70,7 @@ const About = () => {
           <Details>
             <p> - Skillset -</p>
             <p>
-              HTML - JAVASCRIPT - CSS - REACT - BOOTSTRAP - FIREBASE - GITHUB -
+              HTML - JAVASCRIPT - CSS - REACT - BOOTSTRAP - ODOO - GITHUB -
               WORDPRESS{" "}
             </p>
             <Certs>
