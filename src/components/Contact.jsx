@@ -110,7 +110,9 @@ const Contact = () => {
               <i className="fab fa-twitter-square"></i>
             </a>
           </SocialIcons>
-          <a href="https://drive.google.com/file/d/1QqvPr5Akik0_VcwuZ2kSm0Yw-7XLvEfe/view?usp=sharing" 
+          
+          {/* <a href="https://drive.google.com/file/d/1QqvPr5Akik0_VcwuZ2kSm0Yw-7XLvEfe/view?usp=sharing"  */}
+          <a href="https://drive.google.com/file/d/1hlqYJvpHUxzMKeSqXSvNu76efL7Qh70H/view?usp=sharing" 
             target="_blank" className="download">
             <i className="fa fa-download"></i>
             my resume

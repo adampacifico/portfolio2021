@@ -71,7 +71,7 @@ const About = () => {
             <p> - Skillset -</p>
             <p>
               HTML - JAVASCRIPT - CSS - REACT - BOOTSTRAP - ODOO - GITHUB -
-              WORDPRESS{" "}
+              PYTHON - TAILWIND CSS
             </p>
             <Certs>
               <img
